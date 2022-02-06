@@ -2,7 +2,7 @@
 - 👀 I’m a front end developer 
 - 🌱 I’m currently learning reactjs and nodejs
 - 💞️ I’m looking to collaborate on anything js/react related
-- 📫 How to reach me lucasoa1@hotmail.com
+- 📫 You can reach me via email: lucasoa1@hotmail.com
 
 <!---
 1odell/1odell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
