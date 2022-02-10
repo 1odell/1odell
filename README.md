@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1odell
 - 👀 I’m a front end developer 
 - 🌱 I’m currently learning reactjs and nodejs
-- 💞️ I’m looking to collaborate on anything js/react related
+- 🤝 I’m looking to collaborate on anything js/react related
 - 📫 You can reach me via email: lucasoa1@hotmail.com
 
 <!---
